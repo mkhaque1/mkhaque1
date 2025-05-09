@@ -29,11 +29,23 @@
 
 #### 🧰 Frameworks & Libraries
 <p align="center">
+  <!-- Frameworks/Libraries -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astro-292D3E?style=flat-square&logo=astro&logoColor=FF5D01"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+</p>
+
+#### 🧰 CMS 
+<p align="center">
+  <!-- CMS & Backend -->
+  <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payloadcms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Powered%20Apps-7F00FF?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
 ---
@@ -50,7 +62,7 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mkhaque1&theme=react-dark"/>
 </p>
 
 ---
